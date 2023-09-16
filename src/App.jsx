@@ -1,9 +1,12 @@
 
+import TopBar from './assets/TopBar/TopBar'
+import './index.css'
+
 function App() {
 
   return (
     <>
-     <h1>hello</h1>
+     <TopBar></TopBar>
     </>
   )
 }
